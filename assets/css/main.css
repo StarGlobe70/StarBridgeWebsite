@@ -1030,47 +1030,6 @@ body {
     margin: 0;
 }
 
-/* General Styles */
-body {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-}
-
-/* Media Query for Small Screens */
-@media (max-width: 600px) {
-    body {
-        font-size: 14px;
-    }
-    .contact-info {
-        font-size: 1.2em;
-        padding: 10px;
-    }
-}
-
-input, button {
-    padding: 12px;
-    font-size: 1em;
-    width: 100%;
-    margin-top: 10px;
-}
-
-@media (max-width: 600px) {
-    input, button {
-        padding: 10px;
-        font-size: 0.9em;
-    }
-}
-
-body {
-    background: url('Starbridge Global.PNG') no-repeat center center;
-    background-size: cover; /* Use 'contain' if it’s more appropriate */
-}
-
-@media (max-width: 600px) {
-    body {
-        background-size: contain;
-    }
-}
 /* Hero Background Content Centering */
 .hero .background-content {
     position: absolute;
