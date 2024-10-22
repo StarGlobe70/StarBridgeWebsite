@@ -35,7 +35,7 @@ body
     overflow: hidden;
 
     color: #fff;
-    background: #000;
+    background: #585050;
 
     -webkit-font-smoothing: antialiased;
 }
@@ -52,7 +52,7 @@ a
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
 
-    color: #fff;
+    color: #FFF;
 }
 
 h1
@@ -370,7 +370,7 @@ a:hover
 .hero .front-content .container-mid
 {
     position: absolute;
-    top: 50%;
+    top: 71%;
     left: 0;
 
     width: 100%;
@@ -434,12 +434,12 @@ a:hover
     color: #fff;
     border: 3px solid #fff;
     border-radius: 4em;
-    background: none;
+    background: #111;
 }
 
 .hero .front-content .container-mid .open-popup:hover
 {
-    color: #111;
+    color: white;
     background: #fff;
 }
 
